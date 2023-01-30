@@ -1,0 +1,18 @@
+/* .horizontal-child {
+  position: relative;
+  display: block;
+  width: 31px;
+  height: 400px;
+  overflow: scroll;
+  transform-origin: 100% 0%;
+  transform: rotate(-90deg) translateY(-100vh);
+} */
+/* .horizontal-child .slide {
+  width: max-content;
+  transform-origin: 0% 0%;
+  column-gap: 0;
+  font-size: 1.3rem;
+  transform: rotate(90deg) translateY(-100%);
+} */
+/*  height: calc(100vh - 2rem); 
+   padding: 3rem 1rem 2rem;  */

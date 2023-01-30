@@ -1,0 +1,43 @@
+========== RESOURCES ========
+
+0. ~All Sessions
+   https://worktrack.apalworkflow.com/server/sessions
+
+1. ~Email Session
+   https://worktrack.apalworkflow.com/server/sessions/email/1
+
+1. ~All Vehicles
+   https://worktrack.apalworkflow.com/server/vehicles
+
+1. ~Session Vehicles
+   https://worktrack.apalworkflow.com/server/vehicles/session/1
+
+1. ~All Groups
+   https://worktrack.apalworkflow.com/server/groups
+
+1. ~Session Groups
+   https://worktrack.apalworkflow.com/server/groups/session/1
+
+1. ~All Associates
+   https://worktrack.apalworkflow.com/server/associates
+
+1. ~Session Associates
+   https://worktrack.apalworkflow.com/server/associates/session/1
+
+1. ~All Users
+   https://worktrack.apalworkflow.com/server/users
+
+1. ~Session Users
+   https://worktrack.apalworkflow.com/server/users/session/1
+
+1. ~All Routes
+   https://worktrack.apalworkflow.com/server/routes
+
+1. ~Route of Id
+   https://worktrack.apalworkflow.com/server/routes/1
+
+1. ~Vehicle User Deliveries
+   https://worktrack.apalworkflow.com/server/deliveries/vehicleUser/1
+
+1. ~Session Tracking
+   https://worktrack.apalworkflow.com/server/tracking/session/1
