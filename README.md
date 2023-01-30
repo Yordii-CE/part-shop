@@ -1,2 +1,7 @@
 # partshop
-Applicaction Partshop
+Applicaction Partshop created in:
+  React
+  Typescript
+  Nodejs
+  
+   
